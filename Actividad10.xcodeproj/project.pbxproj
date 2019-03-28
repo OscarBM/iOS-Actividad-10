@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		550B7057224C343D008DA6CB /* TablaVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 550B7056224C343D008DA6CB /* TablaVC.swift */; };
 		55723886224B5BD300FCCEC6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55723885224B5BD300FCCEC6 /* AppDelegate.swift */; };
 		55723888224B5BD300FCCEC6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55723887224B5BD300FCCEC6 /* ViewController.swift */; };
 		5572388B224B5BD300FCCEC6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55723889224B5BD300FCCEC6 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		550B7056224C343D008DA6CB /* TablaVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaVC.swift; sourceTree = "<group>"; };
 		55723882224B5BD300FCCEC6 /* Actividad10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Actividad10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55723885224B5BD300FCCEC6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55723887224B5BD300FCCEC6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				5572388C224B5BE000FCCEC6 /* Assets.xcassets */,
 				5572388E224B5BE000FCCEC6 /* LaunchScreen.storyboard */,
 				55723891224B5BE000FCCEC6 /* Info.plist */,
+				550B7056224C343D008DA6CB /* TablaVC.swift */,
 			);
 			path = Actividad10;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				55723888224B5BD300FCCEC6 /* ViewController.swift in Sources */,
 				55723886224B5BD300FCCEC6 /* AppDelegate.swift in Sources */,
+				550B7057224C343D008DA6CB /* TablaVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
